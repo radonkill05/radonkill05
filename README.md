@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radonkill05
 - 👀 I’m interested in ...
-Full-stack web development
+- Full-stack web development
 - Gaming
 - Football (both playing and watching)
 - Interacting with like-minded people in the tech and gaming communities
@@ -15,7 +15,7 @@ Full-stack web development
 - 📫 How to Reach Me ...
 - Email: radonneon5@gmail.com
 - LinkedIn: Daniel okwuosha
-- Twitter: @Dokwuosha4000
+- Twitter: @Dokwuosha4000 
 -😄 Pronouns ...
 - He/Him
 - ⚡ Fun Fact ...
